@@ -36,6 +36,7 @@ public class Ejemplo07 {
             System.out.printf("De tipo %s\n", arithmeticException);
         
         }
+        //TE RECIBE TODO TIPO DE ERROR
         catch(Exception e){
             
             System.out.printf(" Lo sentimos hay un error de tipo %s\n", e);

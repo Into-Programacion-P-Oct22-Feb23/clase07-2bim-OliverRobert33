@@ -34,8 +34,8 @@ public class Ejemplo05 {
             
             System.out.println("Lo sentimos hay un error");
             System.out.printf("De tipo %s\n", arithmeticException);
-        
         }
+        System.out.println("continuamos"); 
         
         
                
